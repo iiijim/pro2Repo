@@ -1,2 +1,2 @@
-# pro2Repo
-The repo for pro2
+# Project-1-Repo
+Repo for Project 1 No CSS (Resume website)
