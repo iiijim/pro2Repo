@@ -21,3 +21,34 @@ ul li a {
 ul li a:hover{
   background-color: brown;
 }
+
+/* this is style one (changes the color of the page's body) */
+
+body{
+  background-color: rgb(6, 6, 125);
+}
+
+/* this is style two (changes the color of the heading text) Im counting all of this as one styling*/
+
+h1{
+  color: white;
+}
+
+h2{
+  color: white;
+}
+
+/* this is style three (changes the color of the paragraph text) */
+
+p{
+  color: white;
+}
+
+/* this is style four (makes the images smaller) */
+
+img{
+  width: 500px;
+}
+
+/* this is style five () */
+
