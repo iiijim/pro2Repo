@@ -43,3 +43,16 @@ h2{
 p{
   color: white;
 }
+
+/* this is style four (makes the images smaller) */
+
+img{
+  width: 200px;
+}
+
+/* this is style five (makes the video bigger) */
+
+video{
+  width: 500px;
+  height: 500px;
+}

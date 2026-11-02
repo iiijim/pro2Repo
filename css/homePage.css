@@ -50,5 +50,11 @@ img{
   width: 500px;
 }
 
-/* this is style five () */
+/* this is style five (adds a border to the sub headings) */
+
+h2{
+  border-style: solid;
+  border-width: 5px;
+  border-color: darkred;
+}
 
