@@ -47,7 +47,7 @@ p{
 /* this is style four (makes the images smaller) */
 
 img{
-  width: 500px;
+  width: 25rem;
 }
 
 /* this is style five (adds a border to the sub headings) */
@@ -58,3 +58,20 @@ h2{
   border-color: darkred;
 }
 
+/* this is the css code to make the homepage fluid */
+
+body{
+  font-size: 20px;
+}
+
+h1{
+  font-size: 2.5rem;
+}
+
+h2{
+  font-size: 1.5rem;
+}
+
+p{
+  font-size: 1.2rem;
+}

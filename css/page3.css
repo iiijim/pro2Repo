@@ -56,3 +56,11 @@ video{
   width: 500px;
   height: 500px;
 }
+
+/* this is the stuff to make the page fixed */
+
+#content-wrapper{
+  width: 960;
+  margin: 0 auto;
+  border-radius: 12px 12px 0px 0px;
+}
