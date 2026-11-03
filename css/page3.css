@@ -60,7 +60,7 @@ video{
 /* this is the stuff to make the page fixed */
 
 #content-wrapper{
-  width: 960px;
-  margin: 0 auto;
+  width: 960px; /* sets the width of the container */
+  margin: 0 auto; /* margin with auto centers the elements in the container */
   border-radius: 12px 12px 0px 0px;
 }
